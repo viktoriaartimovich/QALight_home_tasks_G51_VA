@@ -1,4 +1,4 @@
-package java_hw_12;
+package java_hw_12.enums;
 
 public enum DessertName {
     TIRAMISU,

@@ -1,5 +1,8 @@
 package java_hw_12;
 
+import java_hw_12.enums.TeaType;
+import java_hw_12.enums.OrderStatus;
+
 public class TeaOrder extends Order {
 
     private TeaType type;

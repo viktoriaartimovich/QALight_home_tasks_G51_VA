@@ -1,5 +1,8 @@
 package java_hw_12;
 
+import java_hw_12.enums.DessertName;
+import java_hw_12.enums.OrderStatus;
+
 public class DessertOrder extends Order {
 
     private DessertName dessertName;

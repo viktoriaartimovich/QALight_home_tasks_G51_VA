@@ -1,5 +1,10 @@
 package java_hw_12;
 
+import java_hw_12.enums.CoffeeSize;
+import java_hw_12.enums.DessertName;
+import java_hw_12.enums.TeaType;
+import java_hw_12.enums.OrderStatus;
+
 public class Main {
     public static void main(String[] args) {
 

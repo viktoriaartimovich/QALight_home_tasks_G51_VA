@@ -1,6 +1,7 @@
 package java_hw_12;
 
 import java_hw_12.exceptions.InvalidOrderStatusException;
+import java_hw_12.enums.OrderStatus;
 
 public abstract class Order implements Pricable, Printable {
 
