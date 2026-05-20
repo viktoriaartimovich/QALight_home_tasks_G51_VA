@@ -12,7 +12,7 @@ import java.time.Duration;
 import java.util.List;
 import java.util.NoSuchElementException;
 
-public class dishesCategoriesFromMainMenuTest {
+public class DishesCategoriesFromMainMenuTest {
 
     public static void main(String[] args) {
         WebDriver driver = new ChromeDriver();

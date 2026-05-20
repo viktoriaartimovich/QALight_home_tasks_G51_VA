@@ -12,7 +12,7 @@ import java.time.Duration;
 import java.util.List;
 import java.util.NoSuchElementException;
 
-public class phoneCategoriesTest {
+public class PhoneCategoriesTest {
 
     public static void main(String[] args) {
         WebDriver driver = new ChromeDriver();
