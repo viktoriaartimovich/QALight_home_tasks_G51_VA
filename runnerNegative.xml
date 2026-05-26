@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Negative Tests" verbose="1">
+    <test name="Negative Tests">
+        <groups>
+            <run>
+                <include name="negative"/>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="aqa_hw_17.SearchTests"/>
+            <class name="aqa_hw_17.ProductTests"/>
+            <class name="aqa_hw_17.ContactPhoneValidityTest"/>
+        </classes>
+    </test>
+</suite>
